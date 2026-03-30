@@ -13,4 +13,4 @@ I'm honest about the fact that IT can be challenging, and there's a lot I don't 
 **"The journey of a thousand miles begins with a single step."**
 
 ---
-'📫 **Connect with me:** '[While I'm nowhere to be found]'
+'📫 **Connect with me:** '[My email: svatoslavhametov2005@gmail.com : My Fiverr: @ svjattee]'
