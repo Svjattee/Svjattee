@@ -4,8 +4,11 @@ I am a beginner in the IT world, taking my first steps in web development and Te
 
 ### About Me
 🎓 Certified in HTML5, CSS3, and Python.
+
 🌐 I can build website structures and styles from scratch.
+
 🤖 Developing Telegram bots using Python.
+
 📈 Currently focused on mastering modern web technologies and backend development.
 
 ### My Philosophy:
