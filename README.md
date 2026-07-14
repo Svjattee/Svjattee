@@ -2,7 +2,7 @@
 
 I am a beginner in the IT world, taking my first steps in web development and Telegram bot development.
 
-### 🚀 About Me
+### About Me
 🎓 Certified in HTML5, CSS3, and Python.
 🌐 I can build website structures and styles from scratch.
 🤖 Developing Telegram bots using Python.
