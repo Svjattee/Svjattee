@@ -3,9 +3,9 @@
 I am a beginner in the IT world, taking my first steps in web development. 
 
 ### About Me:
-- 🎓 Certified in **HTML5** and **CSS3**.
+- 🎓 Certified in **HTML5**,**CSS3**,**Python**.
 - 🛠 I can build website structures and styles from scratch.
-- 📈 Currently focused on mastering the fundamentals of the modern web.
+- 📈 Currently focused on mastering the fundamentals of the modern web and TeleramBot.
 
 ### My Philosophy:
 I'm honest about the fact that IT can be challenging, and there's a lot I don't know yet. But I believe that **persistence is key**. I might find things difficult at first, but I am committed to putting in the effort and becoming a professional.
